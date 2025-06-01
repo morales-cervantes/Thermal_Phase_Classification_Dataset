@@ -42,6 +42,7 @@ This dataset supports the development of non-invasive phase recognition tools in
 2. Explore the Data:
 
   Raw thermograms are organized in /Raw_Thermograms_CSV/.
+  
   PCA results for classification are in /PCA_Results_XLSX/.
 
 3. Note: The scripts used for analysis are available upon request or will be made public after article acceptance.
