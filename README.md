@@ -1,12 +1,12 @@
 # Automatic Classification of Thermal Phases During Steel Oxidation via PCA and Infrared Thermography Time Series
 
+Antony Morales-Cervantes [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3669--2638-green)](https://orcid.org/0000-0003-3669-2638);  
 Gerardo Marx Chávez-Campos [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3945--9903-green)](https://orcid.org/0000-0003-3945-9903);  
 Héctor Javier Vergara-Hernández [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6224--1027-green)](https://orcid.org/0000-0001-6224-1027);  
 Jorge Sergio Téllez-Martínez [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0587--0059-green)](https://orcid.org/0000-0003-0587-0059);  
-Edgar Guevara [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2313--2810-green)](https://orcid.org/0000-0002-2313-2810); 
-Miguel Ángel Díaz-Ibarra [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9992--7962-green)](https://orcid.org/0000-0001-9992-7962); 
-Antony Morales-Cervantes [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3669--2638-green)](https://orcid.org/0000-0003-3669-2638) *(corresponding author)*
-
+Luis Ulises Chávez-Campos [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1550--8651-green)](https://orcid.org/0000-0003-1550-8651);  
+Mayra Yunuen Rincón-Pineda [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--9016--7476-green)](https://orcid.org/0009-0004-9016-7476);  
+Edgar Guevara [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2313--2810-green)](https://orcid.org/0000-0002-2313-2810) *(corresponding author)*
 ---
 
 ## Contents
@@ -54,7 +54,7 @@ The dataset will be permanently archived with a DOI via Zenodo upon publication.
 ##  Citation
 If you use this dataset, please cite:
 
-Chávez-Campos, G. M., Vergara-Hernández, H. J., Téllez-Martínez, J. S., Guevara, E., Díaz-Ibarra, M. A.,Morales-Cervantes, A. (2025). Automatic Classification of Thermal Phases During Steel Oxidation via PCA and Infrared Thermography Time Series.
+Morales-Cervantes, A., Chávez-Campos, G. M., Vergara-Hernández, H. J., Téllez-Martínez, J. S., Chávez-Campos, L. U., Rincón-Pineda, M. Y., Guevara, E. (2026). Automatic Classification of Thermal Phases During Steel Oxidation via PCA and Infrared Thermography Time Series.
 
 ##  Authors' Contributions
 Antony Morales-Cervantes led the data collection. All authors contributed to data analysis and interpretation. All authors approved the final version of the manuscript for publication.
